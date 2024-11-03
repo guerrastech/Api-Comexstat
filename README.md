@@ -20,4 +20,4 @@ Este projeto utiliza a [API Comexstat](https://www.gov.br/comex/pt-br/assuntos/c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/guerrastech/Api-Comexstat.git
